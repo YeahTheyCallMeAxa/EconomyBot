@@ -9,6 +9,11 @@ This project uses the [MIT License](https://github.com/YeahTheyCallMeAxa/Economy
 # About Me
 I'm just a weeb who loves JavaScript and [Uno Reverse](discord.gg/nou) OH AND [Mikio](https://bit.ly/invmikio)!
 
+# Setup
+You can copy [this URL](https://github.com/YeahTheyCallMeAxa/EconomyBot) and clone it in [Github Desktop](https://desktop.github.com/) or |run on repl.it|_
+
+.. |run on repl.it| image:: https://repl.it/badge/github/YeahTheyCallMeAxa/Economybot
+.. _run on repl.it: https://repl.it/github/YeahTheyCallMeAxa/Economybot
 # How To Setup
 
 First of all, go to the config.json file which can be found in the src folder [here](https://github.com/YeahTheyCallMeAxa/EconomyBot/blob/main/src/config.json) and fill out the fields!                                 
