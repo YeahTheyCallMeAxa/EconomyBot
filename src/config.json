@@ -1,0 +1,10 @@
+{
+    "owner_ID": [
+        "699235667258900552",
+        "another id, optional"
+    ],
+    "bot_token": "ur bot's token",
+    "bot_prefix": "?",
+    "embed_colour": "#105498",
+    "bot_channelID": "ur channel id here"
+}

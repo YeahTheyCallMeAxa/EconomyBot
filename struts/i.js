@@ -1,0 +1,1 @@
+module.exports = `bit.ly/invmikio | Coded by Axa!`
