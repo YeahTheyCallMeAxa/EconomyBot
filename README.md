@@ -12,5 +12,5 @@ I'm just a weeb who loves JavaScript and [Uno Reverse](discord.gg/nou) OH AND [M
 # How To Setup
 
 First of all, go to the config.json file which can be found in the src folder [here](https://github.com/YeahTheyCallMeAxa/EconomyBot/blob/main/src/config.json) and fill out the fields!                                 
-If you have questions, you can message me!
+If you have questions, you can message me! (RightTheyCallMeAxa#9999)
 
