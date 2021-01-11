@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 language = "nodejs"
 run = "node index.js"
+=======
+language = "node.js"
+run = "node index.js"
+>>>>>>> 2104dda7561279e6e366d4e961b0961c2ab8f2dd
